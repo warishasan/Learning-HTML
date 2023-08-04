@@ -30,4 +30,17 @@ HTML, CSS, and JavaScript play distinct and complementary roles in creating and 
 Combining HTML, CSS, and JavaScript allows developers to create rich and interactive web experiences. HTML defines the structure and content, CSS styles the presentation, and JavaScript adds functionality and interactivity. Together, these languages form the core of front-end development, making it possible to deliver a seamless and enjoyable user experience on the web.
 
 
+![html_js_css](./imgs/css_js_html.png)
+
+# How People Access the Web
+
+## Browsers
+Web browsers, such as Firefox, Internet Explorer, Safari, Chrome, and Opera, allow people to access websites. Users can view web pages by typing a web address, following links, or using bookmarks. New versions of browsers are regularly released with updated features and support for new language additions. However, not all visitors will be using the latest browser versions, so it's important not to rely on all users having access to the latest functionality across all browsers.
+
+## Screen Readers
+Screen readers are software programs used by individuals with visual impairments to read the content of a computer screen aloud. Similar to laws requiring public buildings to be accessible to people with disabilities, there are also regulations mandating that websites be made accessible to ensure inclusivity for all users.
+
+HTML is crucial for browsers as it provides the structure and content of webpages, ensuring cross-browser compatibility and enabling responsive design. For screen readers, HTML's semantic elements and proper usage of alt text make web content accessible to visually impaired users, facilitating navigation and understanding of the page's structure and images.
+
+
 
