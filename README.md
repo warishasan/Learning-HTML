@@ -10,3 +10,24 @@ HTML stands for **Hypertext Markup Language**, and it is the most widely used la
 Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers.
 
 Now, HTML is being widely used to format web pages with the help of different tags available in HTML language.
+
+# Role of HTML, CSS and Javascript in a webpage
+
+HTML, CSS, and JavaScript play distinct and complementary roles in creating and enhancing webpages. Each language serves a specific purpose, and together they form the core foundation of modern web development.
+
+1. **HTML (Hypertext Markup Language)**:
+   - Role: HTML provides the **structure and content** of a webpage. It defines the **layout** of elements like headings, paragraphs, images, links, forms, and more. HTML is responsible for organizing information in a logical and readable format.
+   - Importance: HTML is the backbone of every webpage, forming the foundation for displaying information and enabling navigation between different sections of the page.
+
+2. **CSS (Cascading Style Sheets)**:
+   - Role: CSS is used for **styling** the HTML elements defined in a webpage. It allows developers to control the **presentation and visual appearance** of web content, such as fonts, colors, layout, and spacing.
+   - Importance: CSS enhances the aesthetics of a webpage, making it visually appealing and user-friendly. It ensures a consistent and cohesive design across various devices and screen sizes.
+
+3. **JavaScript**:
+   - Role: JavaScript is a **programming language** that enables **interactivity and dynamic behavior** on webpages. It allows developers to add features like **animations**, **user interactions**, **form validation**, and **updating content** without page reload.
+   - Importance: JavaScript significantly enhances the user experience, making webpages more engaging and interactive. It enables the creation of dynamic web applications and allows developers to respond to user actions in real-time.
+
+Combining HTML, CSS, and JavaScript allows developers to create rich and interactive web experiences. HTML defines the structure and content, CSS styles the presentation, and JavaScript adds functionality and interactivity. Together, these languages form the core of front-end development, making it possible to deliver a seamless and enjoyable user experience on the web.
+
+
+
