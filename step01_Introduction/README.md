@@ -1,6 +1,6 @@
 # Introduction to HTML Elements and Tags
 
-You can find a file called "index.html" in this step. Don't worry about the code for now, as it represents the following HTML document:
+You can find a file called ["index.html"](./index.html) in this step. Don't worry about the code for now, as it represents the following HTML document:
 
 ```html
 <!DOCTYPE html>
@@ -39,7 +39,9 @@ Tags act like containers. They tell you
 something about the information that lies
 between their opening and closing tags.
 
-HTML follows a hierarchical structure, where elements are nested within each other to form a tree-like structure. For example, the <html> element is the root of the tree, and it contains the <body> element as its child.
+## Hierarchical structure
+
+HTML follows a hierarchical structure, where elements are nested within each other to form a tree-like structure. For example, the `<html>` element is the root of the tree, and it contains the `<body>` element as its child, and in this case body has 6 child elements 3 headings and 3 paragraphs all these 6 child elements are called `sibling elements` to each other.
 
 ## Closer look at the HTML Tags
 
