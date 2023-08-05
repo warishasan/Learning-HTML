@@ -5,14 +5,19 @@ You can find a file called "index.html" in this step. Don't worry about the code
 ```html
 <!DOCTYPE html>
 <html>
-<body>
- <h1>This is the Main Heading</h1>
- <p>This text might be an introduction to the rest of the page. And if the page is a long one, it might be split up into several sub-headings.</p>
- <h2>This is a Sub-Heading</h2>
- <p>Many long articles have sub-headings to help readers follow the structure of the content. There may even be sub-sub-headings (or lower-level headings).</p>
- <h2>Another Sub-Heading</h2>
- <p>Here you can see another sub-heading.</p>
-</body>
+  <body>
+    <h1>This is the Main Heading</h1>
+    <p>
+      This text might be an introduction to the rest of the page. And if the page is a long one, it might be split up into several sub-headings.
+    </p>
+    <h2>This is a Sub-Heading</h2>
+    <p>
+      Many long articles have sub-headings to help readers follow the structure of the content. There may even be sub-sub-headings (or lower-level
+      headings).
+    </p>
+    <h2>Another Sub-Heading</h2>
+    <p>Here you can see another sub-heading.</p>
+  </body>
 </html>
 ```
 
@@ -51,6 +56,5 @@ Attributes serve various purposes, such as providing metadata, specifying behavi
 
 ![attributes](./imgs/attributes.png)
 ![attributes_cont](./imgs/attributes_1.png)
-
 
 The code in this example doesn't include any attributes, but you will encounter them frequently in the upcoming steps.
