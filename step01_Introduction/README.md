@@ -27,7 +27,7 @@ When you open the file in a browser, you will see text organized and laid out ba
 
 An HTML document starts with a DOCTYPE declaration, indicating the HTML version used (in this case, HTML5).
 
-In summary, HTML elements and tags are fundamental to structuring and organizing content on web pages. They instruct browsers on how to display the information enclosed between the tags.
+In summary, HTML elements or tags are fundamental to structuring and organizing content on web pages. They instruct browsers on how to display the information enclosed between the tags.
 
 ## Closer look at the HTML code
 
