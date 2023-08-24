@@ -1,4 +1,6 @@
-**Practice Question: Comprehensive HTML Form Creation**
+# **Practice Question: Comprehensive HTML Form Creation**
+
+![task screen shot](./task6.png)
 
 This exercise aims to evaluate your proficiency in creating HTML forms, covering various form elements and their features. Include text inputs, password inputs, text areas, radio buttons, checkboxes, dropdown list boxes, multiple select boxes, file inputs, submit buttons, labels, group elements, date inputs, form validation, email inputs, URL inputs, and search inputs. Follow the instructions below to structure and format the provided content:
 
@@ -7,6 +9,7 @@ This exercise aims to evaluate your proficiency in creating HTML forms, covering
 2. Begin with a heading "User Registration Form."
 
 3. Create a form that gathers user information, including:
+
    - First Name (text input)
    - Last Name (text input)
    - Password (password input)
@@ -33,4 +36,4 @@ This exercise aims to evaluate your proficiency in creating HTML forms, covering
 
 Utilize your understanding of HTML forms and their elements to effectively gather diverse user information. Good luck!
 
-*(Note: This practice question primarily focuses on HTML form creation and element usage.)*
+_(Note: This practice question primarily focuses on HTML form creation and element usage.)_

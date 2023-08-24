@@ -1,4 +1,6 @@
-**HTML Text Markup Practice Question**
+# **HTML Text Markup Practice Question**
+
+![task screen shot](./task.png)
 
 Create an HTML document that demonstrates your understanding of text markup. Include the following elements to format and structure the provided content:
 
@@ -16,4 +18,4 @@ Remember to structure your HTML document correctly and use the appropriate text 
 
 Feel free to refer to HTML documentation and resources as needed. Good luck!
 
-*(Note: The provided instructions focus solely on text markup elements within HTML.)*
+_(Note: The provided instructions focus solely on text markup elements within HTML.)_
