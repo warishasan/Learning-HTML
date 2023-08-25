@@ -1,4 +1,6 @@
-**Practice Question: HTML Text Markup and Comprehensive Lists**
+# **Practice Question: HTML Text Markup and Comprehensive Lists**
+
+![task screen shot](./task2.png)
 
 Your objective is to create an HTML document that showcases your adeptness with text markup and lists, including nested lists. Follow the instructions below to structure and format the provided content:
 
@@ -32,4 +34,4 @@ Ensure your HTML document is properly structured and utilize suitable text marku
 
 Challenge yourself by effectively using both text markup and comprehensive nested lists to communicate information and enhance readability. Best of luck!
 
-*(Note: The provided instructions primarily focus on text markup and list formatting, including nested lists, within HTML.)*
+_(Note: The provided instructions primarily focus on text markup and list formatting, including nested lists, within HTML.)_

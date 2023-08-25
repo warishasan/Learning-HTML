@@ -1,4 +1,4 @@
-**Practice Question: HTML Text Markup, Lists, and Links Mastery**
+# **Practice Question: HTML Text Markup, Lists, and Links Mastery**
 
 This exercise will evaluate your proficiency in text markup, lists, and links within HTML. Be sure to rigorously test the links section with various scenarios. Follow the instructions below to structure and format the provided content:
 
@@ -36,4 +36,4 @@ Ensure your HTML document is well-structured and employs suitable text markup, l
 
 Challenge yourself by effectively using text markup, comprehensive lists, and rigorous link testing to communicate information and enhance user experience. Good luck!
 
-*(Note: The provided instructions primarily focus on text markup, list formatting, and various types of link usage within HTML.)*
+_(Note: The provided instructions primarily focus on text markup, list formatting, and various types of link usage within HTML.)_

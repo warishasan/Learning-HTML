@@ -1,4 +1,6 @@
-**Practice Question: HTML Text Markup, Lists, Links, and Image Proficiency**
+# **Practice Question: HTML Text Markup, Lists, Links, and Image Proficiency**
+
+![task screen shot](./task4.png)
 
 This exercise will evaluate your skills in text markup, lists, links, and image usage within HTML. Rigorously test the image section by covering all aspects of image incorporation. Follow the instructions below to structure and format the provided content:
 
@@ -34,4 +36,4 @@ Ensure your HTML document is well-structured and employs suitable text markup, l
 
 Challenge yourself by effectively using text markup, comprehensive lists, rigorous link testing, and thorough image integration to communicate information and enhance user experience. Good luck!
 
-*(Note: The provided instructions focus primarily on text markup, list formatting, various types of link usage, and comprehensive image integration within HTML.)*
+_(Note: The provided instructions focus primarily on text markup, list formatting, various types of link usage, and comprehensive image integration within HTML.)_

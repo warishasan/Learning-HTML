@@ -1,4 +1,6 @@
-**Practice Question: HTML Tables Mastery**
+# **Practice Question: HTML Tables Mastery**
+
+![task screen shot](./task5.png)
 
 This exercise will evaluate your proficiency in creating HTML tables, covering a range of table features. Include headings, spanning columns and rows, and incorporating a table footer. Follow the instructions below to structure and format the provided content:
 
@@ -30,4 +32,4 @@ This exercise will evaluate your proficiency in creating HTML tables, covering a
 
 Test your understanding of various table elements to effectively present employee data in a structured and visually appealing manner. Best of luck!
 
-*(Note: This practice question primarily focuses on HTML table creation and formatting.)*
+_(Note: This practice question primarily focuses on HTML table creation and formatting.)_
