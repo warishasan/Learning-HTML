@@ -12,7 +12,7 @@ Create an HTML document that demonstrates your understanding of text markup. Inc
 6. Display a sentence with a superscript number for footnotes.
 7. Abbreviate "HyperText Markup Language" as "HTML" using an abbreviation tag.
 8. Provide an inline code example with the text "`<p>`This is a paragraph.`</p>`" using a code tag.
-9. Create a hyperlink with the text "Visit my portfolio" that links to "https://www.example.com."
+
 
 Remember to structure your HTML document correctly and use the appropriate text markup tags for each requirement. Test your document in a web browser to ensure the elements are displayed as intended.
 

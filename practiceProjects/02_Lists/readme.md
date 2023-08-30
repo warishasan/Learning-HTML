@@ -26,9 +26,6 @@ Your objective is to create an HTML document that showcases your adeptness with 
 
 8. Use nested lists to share your experiences trying international dishes. Each country's dishes should be represented as a sublist item.
 
-9. Include a link with the text "Discover more culinary wonders" that links to "https://www.example.com."
-
-10. Conclude with a reflection on the enriching aspects of experiencing diverse culinary traditions.
 
 Ensure your HTML document is properly structured and utilize suitable text markup and list tags for each requirement. Validate your document in a web browser to confirm that the elements are accurately displayed and formatted.
 
