@@ -30,10 +30,9 @@ This exercise will evaluate your proficiency in text markup, lists, and links wi
    - Link "To Kill a Mockingbird" to a relative link within a folder: "books/to-kill-mockingbird.html."
    - Create a link with the text "Jump to top" that links to the same page, using the appropriate anchor.
 
-9. Conclude with a reflection on the enduring significance of classic literature.
 
 Ensure your HTML document is well-structured and employs suitable text markup, list, and link tags for each requirement. Validate your document in a web browser to confirm that the elements are accurately displayed and formatted.
 
-Challenge yourself by effectively using text markup, comprehensive lists, and rigorous link testing to communicate information and enhance user experience. Good luck!
+Challenge yourself by effectively using text markup, comprehensive lists, and rigorous link testing to communicate information and enhance user experience.
 
 _(Note: The provided instructions primarily focus on text markup, list formatting, and various types of link usage within HTML.)_

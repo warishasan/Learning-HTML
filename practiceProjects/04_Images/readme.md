@@ -8,7 +8,7 @@ This exercise will evaluate your skills in text markup, lists, links, and image 
 
 2. Begin with a heading "Exploring Natural Wonders."
 
-3. Write a paragraph describing breathtaking natural landscapes around the world. Use the `<strong>` tag to emphasize the locations and the `<em>` tag to highlight their remarkable features.
+3. Write a paragraph describing breathtaking natural landscapes around the world. Use the `<strong>` tag to emphasize the locations.
 
 4. Organize the following natural wonders and their countries in an ordered list (`<ol>`):
 
@@ -22,15 +22,12 @@ This exercise will evaluate your skills in text markup, lists, links, and image 
 
 6. Write a bullet-point list using the `<ul>` tag to enumerate the benefits of experiencing natural beauty.
 
-7. Insert an image of the Grand Canyon. Use the image file "grand-canyon.jpg" and provide appropriate attributes including `alt`, `width`, and `height`.
+7. Insert an image of the Grand Canyon. Use the image file "grand-canyon.jpg" and provide appropriate attributes including `alt`, `title`, `width`, and `height`.
 
-8. Create a caption for the image using the `<figcaption>` tag. The caption should read "The Majestic Grand Canyon."
-
-9. Create a subheading "Discover More" using appropriate heading tags.
+8. Put the image in the `<figure>` tag and create a caption for the image using the `<figcaption>` tag. The caption should read "The Majestic Grand Canyon."
 
 10. Insert an image link with the text "Explore Victoria Falls" that links to "https://www.example.com/victoria-falls."
 
-11. Conclude with a reflection on the importance of preserving natural wonders.
 
 Ensure your HTML document is well-structured and employs suitable text markup, list, link, and image tags for each requirement. Validate your document in a web browser to confirm that the elements are accurately displayed and formatted.
 
